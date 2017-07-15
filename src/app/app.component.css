@@ -1,0 +1,19 @@
+.container-img {
+    margin-top: 20px;
+    position: absolute;
+    /* background-color: blue; */
+}
+
+.rectangle {
+    /* width: 120px;
+    height: 120px; */
+    /* top: 20px; */
+    position: absolute;
+    /* background-color: blue; */
+    border: 2px solid blue;
+}
+
+.imagen {
+   z-index: -1; 
+  position: relative;
+}
